@@ -3,8 +3,8 @@ public class test {
 
 	public static void main(String[] args) {
 
-		System.out.println("tesfgfdfgfgfgfdgt");
-
+		System.out.println("fgfgfg");
+f
 	}
 
 }
